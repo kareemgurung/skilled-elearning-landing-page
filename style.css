@@ -389,6 +389,11 @@ body {
     padding: 24px 165px 172px 165px;
   }
 
+  .heading__title {
+    top: 0.922rem;
+    
+  }
+
   .footer {
     padding: 32px 165px 32px 165px;
   }
