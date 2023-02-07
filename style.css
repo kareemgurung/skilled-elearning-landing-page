@@ -356,7 +356,6 @@ body {
     object-fit: contain;
     position: absolute;
     width: 640.71px;
-    height: 640px;
     left: 425px;
     top: -92.13px;
   }
@@ -410,13 +409,13 @@ body {
     padding-left: 165px;
     padding-right: 165px;
     padding-bottom: 140px;
+
   }
 
   .skill__heading-image {
     object-fit: contain;
     position: absolute;
     width: 991.63px;
-    height: 936.92px;
     left: 784px;
     top: -146.13px;
   }
