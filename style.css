@@ -91,6 +91,7 @@ body {
 
   display: grid;
 
+  height: 100vh;
   overflow-x: hidden;
 }
 
@@ -356,7 +357,7 @@ body {
     position: absolute;
     width: 640.71px;
     height: 640px;
-    right: -270px;
+    left: 425px;
     top: -92.13px;
   }
 
@@ -386,7 +387,7 @@ body {
 
 @media (min-width: 1024px) {
   .heading {
-    padding: 24px 165px 172px 165px;
+    padding: 24px 165px 185.57px 165px;
   }
 
   .heading__title {
@@ -416,8 +417,8 @@ body {
     position: absolute;
     width: 991.63px;
     height: 936.92px;
-    right: -336px;
-    top: -146px;
+    left: 784px;
+    top: -146.13px;
   }
 
   .skill__heading-content {
